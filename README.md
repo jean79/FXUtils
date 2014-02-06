@@ -66,7 +66,7 @@ Notice we extend from FxDialog (which extends FxController).
 @PostConstruct method is called when FXML is loaded and Spring bean initialized (dependencies injected)
 
 File: UserEditor.fxml
-```
+``` java
 package net.jankovar.pmanager.view.instrument;
 
 import javafx.collections.FXCollections;

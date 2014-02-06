@@ -3,8 +3,10 @@ To develop set of components for easier development of JavaFX 8 applications usi
 - Simplify constructions of FX Nodes in Spring framework (to support Spring DI)
 - Validators (mimic Adobe Flex validators)
 
-**This is just the prototype! Take inspiration. Code is not ready for production deployment yet!**
+**This is just the prototype! Take inspiration. Code is not ready for production deployment yet! API may change!**
 **Any suggestions and comments are WELCOME!**
+
+Author (Jan Kovar): I am still looking for the best approach how to code JavaFX/Spring applications, having background in Java and Adobe Flex I try to reuse Flex coding patterns in JavaFX.
 
 Please write comments to: jan.kovar79@gmail.com.
 
